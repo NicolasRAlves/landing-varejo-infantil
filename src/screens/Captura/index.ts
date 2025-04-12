@@ -1,0 +1,1 @@
+export { Captura } from "./Captura";
